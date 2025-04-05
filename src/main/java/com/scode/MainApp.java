@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 public class MainApp {
 
     private static Map<Integer, Integer> boxes;
-    private static final Integer TOTAL_ATTEMPT = 200;
+    private static final Integer TOTAL_ATTEMPT = 200; // INPUT for number of try
 
     public static void main(String[] args) {
         System.out.println("Starting...");
